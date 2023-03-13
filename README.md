@@ -13,7 +13,7 @@ This is a simple Microsoft Todo Console app that is developed using Microsoft Gr
 7. Add To Do Task
 8. Update To Do Task
 ```
-It provides some basic Todo info/functions for you to view/add/update via console app. Besides that, every time you start the console, it will display upcoming task(s) due within two days.
+It provides some basic Todo info/functions for you to view/add/update via console app. Besides that, every time you start the console, it will display upcoming task(s) due within two days. The listing function supports paging and for search Todo task, it will either get the first matched task or display TOP x matched tasks for you to select.
 
 ## Requirements
 * Device Code Flow Authentication setup on Azure AD
