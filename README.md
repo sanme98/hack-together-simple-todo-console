@@ -24,5 +24,5 @@ It provides some basic Todo info/functions for you to view/add/update via consol
 ## Credit and References
 * [microsoftgraph/msgraph-training-dotnet](https://github.com/microsoftgraph/msgraph-training-dotnet)
 * [Azure-Samples/ms-identity-dotnet-desktop-tutorial](https://github.com/Azure-Samples/ms-identity-dotnet-desktop-tutorial)
-* Microsoft Learn MS Graph Documentations such as
+* Microsoft Learn MS Graph and Azure Documentations such as
   * https://learn.microsoft.com/en-us/azure/active-directory/develop/scenario-desktop-acquire-token-device-code-flow?tabs=dotnet
