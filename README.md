@@ -1,7 +1,7 @@
 # Simple Todo Console using Microsoft Graph for Hack Together 2023
 
 ## Description
-This is a simple Microsoft Todo Console app that develop using Microsoft Graph .NET v5 SDK. It login using Device Code and will save the access token into cross-platform cache MSAL so you don't need to login every times. The functions and menus available for the Todo console app is like below:
+This is a simple Microsoft Todo Console app that is developed using Microsoft Graph .NET v5 SDK. It's login using Device Code and will save the access token into cross-platform cache MSAL so you don't need to login every time. The functions and menus available for the Todo console app is like below:
 ```
 0. Exit
 1. Display access token
@@ -13,7 +13,7 @@ This is a simple Microsoft Todo Console app that develop using Microsoft Graph .
 7. Add To Do Task
 8. Update To Do Task
 ```
-It provides some basic Todo info/functions for you to view/add/update via console app. Besides that, everytime you start the console, it will display upcomming task(s) due within two days.
+It provides some basic Todo info/functions for you to view/add/update via console app. Besides that, every time you start the console, it will display upcoming task(s) due within two days.
 
 ## Requirements
 * Device Code Flow Authentication setup on Azure AD
