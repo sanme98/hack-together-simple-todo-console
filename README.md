@@ -1,4 +1,5 @@
 # Simple Todo Console using Microsoft Graph for Hack Together 2023
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
 
 ## Description
 This is a simple Microsoft Todo Console app that is developed using Microsoft Graph .NET v5 SDK. It's login using Device Code and will save the access token into cross-platform cache MSAL so you don't need to login every time. The functions and menus available for the Todo console app is like below:
